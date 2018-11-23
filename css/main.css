@@ -1,4 +1,4 @@
-html{
+html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
@@ -11,7 +11,7 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -30,12 +30,12 @@ nav ol {
 }
 
 nav a {
-  color: #793284
+  color: #793284;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #b42885
+  color: #b42885;
   text-decoration: underline;
 }
 
